@@ -1,2 +1,2 @@
 # Online-Voting
-This Project mainly focuses on making voting an online work in small organisations .
+This Project mainly focuses on making an web app for online voting  in small organisations .
